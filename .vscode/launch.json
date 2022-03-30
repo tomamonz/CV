@@ -7,8 +7,8 @@
         {
             "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open main_page.html",
-            "file": "f:\\5_Wordpress_SPACESYSTEM\\VISUAL_STRONA\\spaceteam_agh\\HTML\\main_page.html"
+            "name": "Open index.html",
+            "file": "f:\\5_Wordpress_SPACESYSTEM\\VISUAL_STRONA\\spaceteam_agh\\index.html"
         }
     ]
 }
